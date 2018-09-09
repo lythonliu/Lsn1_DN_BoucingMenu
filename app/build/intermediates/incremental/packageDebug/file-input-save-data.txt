@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Wed May 03 16:30:58 CST 2017
+2.base=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+5.file=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=DEX
+4.base=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\layout_rv_sweet.xml
+5.base=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\rv_layout_animation.xml
+9.set=ANDROID_RESOURCE
+9.file=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\item_vertical_rv.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\Android\\Demo\\Lsn1_DN_BoucingMenu\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\item_duang_show.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
